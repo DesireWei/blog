@@ -1,0 +1,11 @@
+前台：
+POST提交(表单，数据验证，PHP函数处理，INSERT)
+
+后台：
+列表(SELECT *)
+操作（删除(delete)，回复，标记为垃圾信息(update)）
+搜索（SELECT， LIKE）
+翻页（SELECT,    LIMIT）
+
+
+MVC
